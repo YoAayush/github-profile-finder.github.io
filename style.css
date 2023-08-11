@@ -32,7 +32,7 @@ body{
 }
 #card{
     display: block;
-    width: 100%;
+    width: fit-content;
     height: fit-content;
     margin: 2rem auto;
     justify-content: space-between;
